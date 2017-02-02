@@ -2,5 +2,5 @@
 Just a bunch of iPython notebooks for future references.
 
 # List of notebooks #
-### [Eigenvalue decomposition vs SVD decomposition](./eigen_vs_svd.ipynb) ###
-### [ICP - SVD vs Least Squares](./icp.ipynb) ###
+### [Matrix Decomposition](./eigen_vs_svd.ipynb): Eigenvalue decomposition vs SVD ###
+### [ICP](./icp.ipynb): SVD vs Least Squares ###
